@@ -5,10 +5,10 @@ I'm a freelance scientific writer with a Master's in Biotechnology. I love trans
 
 ## Portfolio Samples
 
-- **[CRISPR Blog Post](https://github.com/Harshitha995-lab/sample-blog/blob/main/CRISPR_Blog_Harshitha.md)**  
-  A beginner-friendly blog post that introduces the CRISPR-Cas9 system and its applications.
+- **[CRISPR Blog Post] https://github.com/Harshitha995-lab/Blog-post-**  
+  A beginner-friendly blog that showcases the sustainable biotech alternative methods which can be cultivated in small scale and save plants and animals, To save our planet.
 
 - **[Scientific Article on Human Germline editing using CRISPR] https://github.com/Harshitha995-lab/Sample-Article---CRISPR-to-edit-Human-embryo-  
   An informative article comparing traditional methods of genome editing and embryo editing which prevents genetically inherited diseases and also stops the expression to future generation.
   
-More writing samples coming soon.
+More writing samples coming soon. 
