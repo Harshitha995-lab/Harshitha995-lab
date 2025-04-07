@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Harshitha!
 
-<!--
-**Harshitha995-lab/Harshitha995-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a freelance scientific writer with a Master's in Biotechnology. I love translating complex scientific concepts into clear and engaging content for both technical and non-technical audiences. My focus areas include CRISPR, diagnostics, molecular biology,medical writing and biotech innovations.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio Samples
+
+- **[CRISPR Blog Post](https://github.com/Harshitha995-lab/sample-blog/blob/main/CRISPR_Blog_Harshitha.md)**  
+  A beginner-friendly blog post that introduces the CRISPR-Cas9 system and its applications.
+
+- **[Scientific Article on DNA Extraction Kits in India](https://github.com/Harshitha995-lab/sample-article/blob/main/DNA_Extraction_Kits_India_Harshitha.md)**  
+  An informative article comparing top DNA extraction kits available in the Indian biotech market.
+
+More writing samples coming soon!
