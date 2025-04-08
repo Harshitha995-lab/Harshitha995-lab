@@ -1,6 +1,6 @@
 # Hi, I'm Harshitha!
 
-I'm a freelance scientific writer with a Master's in Biotechnology. I love translating complex scientific concepts into clear and engaging content for both technical and non-technical audiences. My focus areas include CRISPR, diagnostics, molecular biology,medical writing and biotech innovations.
+I'm a freelance scientific writer with a Master's in Biotechnology. I love translating complex scientific concepts into clear and engaging content for both technical and non-technical audiences. My works includes writing for content managers, medical journals and magazines_writing column articles. Focus areas include molecular diagnostics, health care,medical writing and biotech innovations.
 
 
 ## Portfolio Samples
